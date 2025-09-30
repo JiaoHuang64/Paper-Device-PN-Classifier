@@ -152,5 +152,5 @@ outputs/                    # Excel outputs if you prefer to separate
 
 ## 9) License & Acknowledgments
 
-- License: **MIT** (see `LICENSE`).  
+- License: **CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International)** (see `LICENSE`).  
 - Inspired by work in **paper-based microfluidics** and **smartphone colorimetric diagnostics** widely used in the field.
